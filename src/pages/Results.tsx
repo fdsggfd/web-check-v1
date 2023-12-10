@@ -7,7 +7,6 @@ import Masonry from 'react-masonry-css'
 import colors from 'styles/colors';
 import Heading from 'components/Form/Heading';
 import Modal from 'components/Form/Modal';
-import Footer from 'components/misc/Footer';
 import Nav from 'components/Form/Nav';
 import { RowProps }  from 'components/Form/Row';
 
