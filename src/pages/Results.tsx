@@ -892,7 +892,6 @@ const Results = (): JSX.Element => {
             <span className="toggle-filters" onClick={() => setShowFilters(true)}>Show Filters</span>
             <a href="#view-download-raw-data"><span className="toggle-filters">Export Data</span></a>
             <a href="/about"><span className="toggle-filters">Learn about the Results</span></a>
-            <a href="/about#additional-resources"><span className="toggle-filters">More tools</span></a>
           </div>
       ) }
       </FilterButtons>
